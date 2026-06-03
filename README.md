@@ -26,11 +26,27 @@ LOSO (Leave‑One‑Subject‑Out): средняя Accuracy на новых па
 
 ## 🏗️ Структура проекта
 epilepsy-eeg-classification/
+
+
 ├── data/ # Датасеты и предобработка
+
+
 ├── models/ # Нейросетевые архитектуры (TST, EEGNet, ...)
+
+
 ├── training/ # Обучение, функции потерь, SWA
+
+
 ├── evaluation/ # Метрики, калибровка, LOSO
+
+
 ├── utils/ # Конфигурация, фиксация seed
+
+
 ├── notebooks/ # Jupyter-ноутбуки с экспериментами
+
+
 ├── requirements.txt # Зависимости
+
+
 └── README.md
