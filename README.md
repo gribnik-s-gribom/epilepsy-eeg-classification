@@ -1,6 +1,5 @@
 # Epilepsy EEG Classification
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Автоматизированное распознавание эпилептической активности по данным ЭЭГ с использованием **Time Series Transformer**.
 
