@@ -43,8 +43,6 @@ epilepsy-eeg-classification/
 ├── utils/ # Конфигурация, фиксация seed
 
 
-├── notebooks/ # Jupyter-ноутбуки с экспериментами
-
 
 ├── requirements.txt # Зависимости
 
